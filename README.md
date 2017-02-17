@@ -1,2 +1,2 @@
 # KeepHashTagInTweetDeck
-TweetDeckでハッシュタグを保持してつぶやけるchrome拡張
+TweetDeckでハッシュタグを保持してつぶやけるFirefoxアドオン
